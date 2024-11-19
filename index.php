@@ -1,5 +1,5 @@
 <?php
-include "Download-Tiktok/DownloadClass.php";
+include "DownloadClass.php";
 
 $api = new DownloadClass();
 
